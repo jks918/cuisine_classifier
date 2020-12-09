@@ -43,7 +43,6 @@ as an explanation. As Yummly is based in the United States, it may be reflecting
 
 <figure>
   <img src="images/ingredient.png" alt="rec1ab" style="width:100%">
-  <figcaption>Original depictions of findings 1 and 2.</figcaption>
 </figure>
 
 By obtaining the top 20 ingredients, we can see that salt is the most common ingredient. It is also interesting to note that these commonly used ingredients are

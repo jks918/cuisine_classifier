@@ -3,7 +3,8 @@
 ## Introduction
 Food is seen as a gateway to understanding different cultures and learning more about various regions of the world. While certain recipes are distinct to
 specific regions, many recipes are not constrained to its boundaries as varying regions of the world share similarities in its cuisines. Machine learning can
-help to uncover these similarities along with analyzing what makes each cuisine unique.
+help to uncover these similarities along with analyzing what makes each cuisine unique. This final project was completed for INFO 656 Machine Learning at Pratt
+Institute in Fall 2020.
 
 ### Problem:
 With the rise of food related apps and websites, understanding different cuisines and being able to recognize it is crucial. Whether the service is to streamline
